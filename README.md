@@ -11,7 +11,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-![MgNews](https://raw.githubusercontent.com/martageraldo/mgNews/6c68ec03ecb65884e4f97bc4b7180078813d9005/mgnews.svg)
+![Contador](https://github.com/martageraldo/counterapp/blob/master/demo.jpg?raw=true)
 
 
 
